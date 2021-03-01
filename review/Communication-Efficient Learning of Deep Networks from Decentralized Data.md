@@ -3,8 +3,6 @@
 Communication-Efficient Learning of Deep Networks
 from Decentralized Data
 
-arXiv:1912.04977v1 [cs.LG] 10 Dec 2019
-
 ## 目的
 
 本文是联邦学习的开山之作。
